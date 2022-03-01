@@ -15,7 +15,7 @@ Your task is to create a web site of Dieter Rams’s ten principles for good des
 Your project must consist of the contents in the file `ten-principles-for-good-design.txt` and a navigation system, at the very least. Including open source images is encouraged.
 
 ## Project Scaffold
-This repo contains a folder called `site`, which, in turn, contains some starter files for this project. (See the **File List** section below, sans `.gitignore` files.) Before you start, replace `PUT YOUR NAME HERE` in the `title` element of `index.html` with your name, and replace `PUT YOUR GIHUB USERNAME HERE` with your GitHub username.
+This repo contains a folder called `site`, which, in turn, contains some starter files for this project. (See the **File List** section below, sans `.gitignore` files.) Before you start, replace `PUT YOUR NAME HERE` in the `title` element of `index.html` with your name, and replace `NickBrownNH` with your GitHub username.
 
 ### File List
 1. `README.md`
